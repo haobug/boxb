@@ -3,8 +3,13 @@ msgstr ""
 "Project-Id-Version: BoxBilling\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
+<<<<<<< HEAD
 "PO-Revision-Date: 2015-04-19 19:18+0800\n"
 "Last-Translator: qinghao <qingxianhao@gmail.com>\n"
+=======
+"PO-Revision-Date: 2015-04-19 23:33+0800\n"
+"Last-Translator: BoxBilling <info@boxbilling.com>\n"
+>>>>>>> 3f00fb9... update
 "Language-Team: BoxBilling <info@boxbilling.com>\n"
 "Language: English\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +18,11 @@ msgstr ""
 "X-Poedit-KeywordsList: __;gettext;Box_Exception\n"
 "X-Poedit-Basepath: ../../../\n"
 "X-Poedit-SourceCharset: utf-8\n"
+<<<<<<< HEAD
 "X-Generator: Poedit 1.5.5\n"
+=======
+"X-Generator: Poedit 1.5.4\n"
+>>>>>>> 3f00fb9... update
 "X-Poedit-SearchPath-0: bb-library/Api\n"
 "X-Poedit-SearchPath-1: bb-library/Box\n"
 "X-Poedit-SearchPath-2: bb-library/License\n"
@@ -351,13 +360,13 @@ msgid "Last post"
 msgstr ""
 
 msgid "Replies"
-msgstr ""
+msgstr "回复"
 
 msgid "Views"
-msgstr ""
+msgstr "视图"
 
 msgid "by"
-msgstr ""
+msgstr "by"
 
 msgid "The list is empty"
 msgstr ""
@@ -369,7 +378,7 @@ msgid "New topic"
 msgstr ""
 
 msgid "Register"
-msgstr ""
+msgstr "注册"
 
 msgid "Start new topic in"
 msgstr ""
@@ -378,7 +387,7 @@ msgid "Start new topic"
 msgstr ""
 
 msgid "Topic title"
-msgstr ""
+msgstr "题目"
 
 msgid "Topic message"
 msgstr ""
@@ -387,82 +396,86 @@ msgid "Create new topic"
 msgstr ""
 
 msgid "Login / Sign up"
-msgstr ""
+msgstr "注册/登录"
 
 msgid "Sign In / Create new account"
-msgstr ""
+msgstr "登录/创建新账户"
 
 msgid ""
 "Become a member to participate in forum, contact support, order new services"
 msgstr ""
 
 msgid "Sign in"
-msgstr ""
+msgstr "登录"
 
 msgid "Login to client area"
 msgstr ""
 
 msgid "Email Address"
-msgstr ""
+msgstr "Email地址"
 
 msgid "Password"
-msgstr ""
+msgstr "密码"
 
 msgid "Login"
-msgstr ""
+msgstr "登录"
 
 msgid "Reset password"
-msgstr ""
+msgstr "重置密码"
 
 msgid "Do not have an account yet?"
-msgstr ""
+msgstr "你还没有账号吗?"
 
 msgid "Enter your details below"
-msgstr ""
+msgstr "进入下面的详细页面"
 
 msgid "Create new profile"
-msgstr ""
+msgstr "新建策略"
 
 msgid "First Name"
-msgstr ""
+msgstr "名"
 
 msgid "Last Name"
-msgstr ""
+msgstr "姓"
 
 msgid "Company"
-msgstr ""
+msgstr "公司"
 
 msgid "Password confirm"
-msgstr ""
+msgstr "确认密码"
 
 msgid "Thank you"
-msgstr ""
+msgstr "谢谢"
 
 msgid "Payment for invoice received"
-msgstr ""
+msgstr "收到付款"
 
 msgid ""
 "Your payment is being processed right now. This takes about 5 minutes to "
 "complete."
+<<<<<<< HEAD
 msgstr ""
+=======
+msgstr "您的付款正在处理中。这大约需要5分钟才能完成。"
+>>>>>>> 3f00fb9... update
 
 msgid "You will be automatically redirected to invoice page after 5 minutes."
-msgstr ""
+msgstr "5分钟后,您将被自动重定向到发票页面。"
 
 msgid "Invoices"
-msgstr ""
+msgstr "发票"
 
 msgid "List of invoices"
-msgstr ""
+msgstr "发票清单"
 
 msgid "Invoice management"
 msgstr ""
 
 msgid "Unpaid"
-msgstr ""
+msgstr "没有付款"
 
 msgid "Paid"
-msgstr ""
+msgstr "付款"
 
 msgid "Title"
 msgstr ""
@@ -474,10 +487,10 @@ msgid "Due Date"
 msgstr ""
 
 msgid "Total"
-msgstr ""
+msgstr "总共"
 
 msgid "Pay"
-msgstr ""
+msgstr "付款"
 
 msgid "Paid at"
 msgstr ""
@@ -506,13 +519,13 @@ msgid "VPS management"
 msgstr ""
 
 msgid "Details"
-msgstr ""
+msgstr "详细"
 
 msgid "Statistics"
-msgstr ""
+msgstr "统计"
 
 msgid "Manage"
-msgstr ""
+msgstr "管理"
 
 msgid "Control panel"
 msgstr ""
