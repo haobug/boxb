@@ -3,13 +3,8 @@ msgstr ""
 "Project-Id-Version: BoxBilling\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-<<<<<<< HEAD
 "PO-Revision-Date: 2015-04-19 19:18+0800\n"
 "Last-Translator: qinghao <qingxianhao@gmail.com>\n"
-=======
-"PO-Revision-Date: 2015-04-19 23:33+0800\n"
-"Last-Translator: BoxBilling <info@boxbilling.com>\n"
->>>>>>> 3f00fb9... update
 "Language-Team: BoxBilling <info@boxbilling.com>\n"
 "Language: English\n"
 "MIME-Version: 1.0\n"
@@ -18,11 +13,7 @@ msgstr ""
 "X-Poedit-KeywordsList: __;gettext;Box_Exception\n"
 "X-Poedit-Basepath: ../../../\n"
 "X-Poedit-SourceCharset: utf-8\n"
-<<<<<<< HEAD
 "X-Generator: Poedit 1.5.5\n"
-=======
-"X-Generator: Poedit 1.5.4\n"
->>>>>>> 3f00fb9... update
 "X-Poedit-SearchPath-0: bb-library/Api\n"
 "X-Poedit-SearchPath-1: bb-library/Box\n"
 "X-Poedit-SearchPath-2: bb-library/License\n"
@@ -453,11 +444,7 @@ msgstr "收到付款"
 msgid ""
 "Your payment is being processed right now. This takes about 5 minutes to "
 "complete."
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "您的付款正在处理中。这大约需要5分钟才能完成。"
->>>>>>> 3f00fb9... update
 
 msgid "You will be automatically redirected to invoice page after 5 minutes."
 msgstr "5分钟后,您将被自动重定向到发票页面。"
