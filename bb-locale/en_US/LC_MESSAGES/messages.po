@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: BoxBilling\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2015-04-19 19:18+0800\n"
+"PO-Revision-Date: 2015-04-20 23:49+0800\n"
 "Last-Translator: qinghao <qingxianhao@gmail.com>\n"
 "Language-Team: BoxBilling <info@boxbilling.com>\n"
 "Language: English\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Poedit-KeywordsList: __;gettext;Box_Exception\n"
 "X-Poedit-Basepath: ../../../\n"
 "X-Poedit-SourceCharset: utf-8\n"
-"X-Generator: Poedit 1.5.5\n"
+"X-Generator: Poedit 1.5.4\n"
 "X-Poedit-SearchPath-0: bb-library/Api\n"
 "X-Poedit-SearchPath-1: bb-library/Box\n"
 "X-Poedit-SearchPath-2: bb-library/License\n"
@@ -348,7 +348,7 @@ msgid "Thread / Thread Starter"
 msgstr ""
 
 msgid "Last post"
-msgstr ""
+msgstr "最后发表"
 
 msgid "Replies"
 msgstr "回复"
@@ -360,7 +360,7 @@ msgid "by"
 msgstr "by"
 
 msgid "The list is empty"
-msgstr ""
+msgstr "列表为空"
 
 msgid "Forum list"
 msgstr ""
@@ -400,7 +400,7 @@ msgid "Sign in"
 msgstr "登录"
 
 msgid "Login to client area"
-msgstr ""
+msgstr "用户登录区"
 
 msgid "Email Address"
 msgstr "Email地址"
@@ -483,7 +483,7 @@ msgid "Paid at"
 msgstr ""
 
 msgid "Forum"
-msgstr ""
+msgstr "论坛"
 
 msgid ""
 "Welcome to our forums. If you wish to become a member and post, you have to "
@@ -530,28 +530,28 @@ msgid "Plan"
 msgstr ""
 
 msgid "Operating system"
-msgstr ""
+msgstr "操作系统"
 
 msgid "IP address"
-msgstr ""
+msgstr "IP 地址"
 
 msgid "Additional IP addresses"
 msgstr ""
 
 msgid "Type"
-msgstr ""
+msgstr "类型"
 
 msgid "Root password"
-msgstr ""
+msgstr "root 密码"
 
 msgid "Change status"
-msgstr ""
+msgstr "改变状态"
 
 msgid "VPS rebooting. Refresh page after a few moments."
 msgstr ""
 
 msgid "Reboot"
-msgstr ""
+msgstr "重启"
 
 msgid "VPS booting. Refresh page after a few moments."
 msgstr ""
@@ -596,82 +596,82 @@ msgid "Root password changed"
 msgstr ""
 
 msgid "New password"
-msgstr ""
+msgstr "新密码"
 
 msgid "Enter new root password"
-msgstr ""
+msgstr "输入新 root 密码"
 
 msgid "Bandwidth"
-msgstr ""
+msgstr "带宽"
 
 msgid "Used"
-msgstr ""
+msgstr "已经使用"
 
 msgid "Free"
-msgstr ""
+msgstr "免费"
 
 msgid "Memory"
-msgstr ""
+msgstr "内存"
 
 msgid "Disk usage"
-msgstr ""
+msgstr "硬盘使用"
 
 msgid "Boot up server to see statistics"
 msgstr ""
 
 msgid "Are you sure?"
-msgstr ""
+msgstr "你确定吗?"
 
 msgid "VPS booting. Reload page after a few moments."
 msgstr ""
 
 msgid "Login details"
-msgstr ""
+msgstr "登录详情"
 
 msgid "Username"
-msgstr ""
+msgstr "用户名"
 
 msgid "Open control panel"
-msgstr ""
+msgstr "打开控制面板"
 
 msgid "Change password"
-msgstr ""
+msgstr "修改密码"
 
 msgid "Change client area password"
-msgstr ""
+msgstr "修改客户区密码"
 
 msgid "Client area password changed"
-msgstr ""
+msgstr "客户区密码修改成功"
 
 msgid "Enter new password"
-msgstr ""
+msgstr "输入新密码"
 
 msgid "Dashboard"
 msgstr ""
 
 msgid "Shopping cart"
-msgstr ""
+msgstr "购物车"
 
 msgid "Profile"
 msgstr ""
 
 msgid "Sign out"
-msgstr ""
+msgstr "退出"
 
 msgid "Email address"
-msgstr ""
+msgstr "邮箱地址"
 
 msgid "Select language"
-msgstr ""
+msgstr "选择语言"
 
 msgid "Popular articles"
-msgstr ""
+msgstr "热门话题"
 
 msgid "Recent posts"
-msgstr ""
+msgstr "最近的帖子"
 
 msgid "About us"
-msgstr ""
+msgstr "关于我们"
 
 msgid "Terms and conditions"
 msgstr ""
@@ -680,13 +680,13 @@ msgid "Privacy policy"
 msgstr ""
 
 msgid "Loading .."
-msgstr ""
+msgstr "加载中....."
 
 msgid "Incorrect please try again"
-msgstr ""
+msgstr "不正确请重新输入"
 
 msgid "Enter the words above"
-msgstr ""
+msgstr "输入以上的文字"
 
 msgid "Support tickets"
 msgstr ""
@@ -695,22 +695,22 @@ msgid "Need an answer? We are here to help"
 msgstr ""
 
 msgid "Id"
-msgstr ""
+msgstr "ID"
 
 msgid "Subject"
-msgstr ""
+msgstr "主题"
 
 msgid "Help desk"
-msgstr ""
+msgstr "帮助"
 
 msgid "Status"
-msgstr ""
+msgstr "状态"
 
 msgid "Submitted"
-msgstr ""
+msgstr "已经提交"
 
 msgid "ago"
-msgstr ""
+msgstr "前进"
 
 msgid "Submit new ticket"
 msgstr ""
@@ -719,22 +719,22 @@ msgid "Submit new support ticket"
 msgstr ""
 
 msgid "Message"
-msgstr ""
+msgstr "消息"
 
 msgid "Submit"
-msgstr ""
+msgstr "提交"
 
 msgid "Knowledge base"
-msgstr ""
+msgstr "基础知识"
 
 msgid "Blog"
-msgstr ""
+msgstr "博客"
 
 msgid "News & Announcements"
-msgstr ""
+msgstr "新闻&声明"
 
 msgid "Track our latest posts"
-msgstr ""
+msgstr "追踪最新的帖子"
 
 msgid "Read more.."
 msgstr ""
@@ -752,16 +752,16 @@ msgid "No recent tracks are available"
 msgstr ""
 
 msgid "Download file"
-msgstr ""
+msgstr "下载文件"
 
 msgid "Download"
-msgstr ""
+msgstr "下载"
 
 msgid "Back to emails"
 msgstr ""
 
 msgid "From"
-msgstr ""
+msgstr "论坛"
 
 msgid "To"
 msgstr ""
@@ -946,7 +946,7 @@ msgid "Reset"
 msgstr ""
 
 msgid "Checkout"
-msgstr ""
+msgstr "付款"
 
 msgid "You have not selected any product"
 msgstr ""
@@ -955,25 +955,25 @@ msgid "Order new service"
 msgstr ""
 
 msgid "Home"
-msgstr ""
+msgstr "主页"
 
 msgid "Order"
-msgstr ""
+msgstr "订单"
 
 msgid "Knowledge Base"
-msgstr ""
+msgstr "知识库"
 
 msgid "Contact us"
-msgstr ""
+msgstr "联系我们"
 
 msgid "Support"
-msgstr ""
+msgstr "支持"
 
 msgid "Services"
-msgstr ""
+msgstr "服务"
 
 msgid "Emails"
-msgstr ""
+msgstr "邮箱"
 
 msgid "Payment history"
 msgstr ""
@@ -1000,7 +1000,7 @@ msgid "by "
 msgstr ""
 
 msgid "Configure"
-msgstr ""
+msgstr "配置"
 
 msgid ""
 "The product/service you have chosen has the following configuration options "
@@ -1208,7 +1208,7 @@ msgid "Update profile"
 msgstr ""
 
 msgid "Company Name"
-msgstr ""
+msgstr "公司名字"
 
 msgid "Phone Country Code"
 msgstr ""
@@ -1555,10 +1555,10 @@ msgid "Error"
 msgstr ""
 
 msgid "Select Product"
-msgstr ""
+msgstr "选择产品"
 
 msgid "Choose products we offer for selling"
-msgstr ""
+msgstr "选择我们提供的产品"
 
 msgid "Starting from:"
 msgstr ""
@@ -1567,16 +1567,16 @@ msgid "View products"
 msgstr ""
 
 msgid "Select product"
-msgstr ""
+msgstr "选择产品"
 
 msgid "Confirm"
-msgstr ""
+msgstr "确认"
 
 msgid "What are you looking for?"
-msgstr ""
+msgstr "你在寻找什么呢?"
 
 msgid "Search"
-msgstr ""
+msgstr "查找"
 
 msgid "Try using other keyword. No matches not for keyword:"
 msgstr ""
@@ -1630,25 +1630,25 @@ msgid "Recent emails"
 msgstr ""
 
 msgid "Order products and services"
-msgstr ""
+msgstr "订购产品和服务"
 
 msgid "Become a member and manage services"
-msgstr ""
+msgstr "成为会员和管理服务"
 
 msgid "Contact Us"
-msgstr ""
+msgstr "联系我们"
 
 msgid "Contact us for more information"
-msgstr ""
+msgstr "联系我们获得更多的信息"
 
 msgid "Announcements"
-msgstr ""
+msgstr "声明"
 
 msgid "Latest news & announcements"
-msgstr ""
+msgstr "最新的新闻和公告"
 
 msgid "Browse our KB for answers and FAQs"
-msgstr ""
+msgstr "常见问题解答"
 
 msgid "Invoicing Software"
 msgstr ""
