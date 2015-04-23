@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: BoxBilling\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2015-04-19 19:24+0800\n"
+"PO-Revision-Date: 2015-04-21 01:03+0800\n"
 "Last-Translator: qinghao <qingxianhao@gmail.com>\n"
 "Language-Team: BoxBilling <info@boxbilling.com>\n"
 "Language: English\n"
@@ -72,84 +72,83 @@ msgstr "支付选项"
 msgid "Product / service description"
 msgstr "产品/服务描述"
 
-#, fuzzy
 msgid "Choose which addons you would like to offer with"
 msgstr "请选择您希望提供哪些插件"
 
 msgid "The list is empty"
-msgstr ""
+msgstr "列表为空"
 
 msgid "Choose which products can client upgrade to"
-msgstr ""
+msgstr "选择客户可以升级的产品"
 
 msgid "Product Upgrades"
-msgstr ""
+msgstr "产品升级"
 
 msgid "No additional configuration for this product is required"
-msgstr ""
+msgstr "该产品无需额外配置"
 
 msgid "Product links"
-msgstr ""
+msgstr "产品链接"
 
 msgid "Product ID"
-msgstr ""
+msgstr "产品 ID"
 
 msgid "Order page with ID"
-msgstr ""
+msgstr "带 ID 的订购页面"
 
 msgid "Order page with slug"
-msgstr ""
+msgstr "带 Slug 的订购页面"
 
 msgid "Select icon and click OK"
-msgstr ""
+msgstr "选择图标，然后单击 OK"
 
 msgid "Payment type"
-msgstr ""
+msgstr "支付方式"
 
 msgid "Setup price"
-msgstr ""
+msgstr "设置价格"
 
 msgid "Price"
-msgstr ""
+msgstr "价格"
 
 msgid "Total"
-msgstr ""
+msgstr "总计"
 
 msgid "One time"
-msgstr ""
+msgstr "一次性"
 
 msgid "Price for period"
-msgstr ""
+msgstr "周期价格"
 
 msgid "First payment sum"
 msgstr ""
 
 msgid "On"
-msgstr ""
+msgstr "开"
 
 msgid "Weekly"
-msgstr ""
+msgstr "每周"
 
 msgid "Monthly"
-msgstr ""
+msgstr "每月"
 
 msgid "Every 3 months"
-msgstr ""
+msgstr "每 3 个月"
 
 msgid "Every 6 months"
-msgstr ""
+msgstr "每 6 个月"
 
 msgid "Every year"
-msgstr ""
+msgstr "每年"
 
 msgid "Every 2 years"
-msgstr ""
+msgstr "每 2 年"
 
 msgid "Every 3 years"
-msgstr ""
+msgstr "每 3 年"
 
 msgid "Centova Cast order details"
-msgstr ""
+msgstr "Centova演员订单详细信息"
 
 msgid "Changing settings does not send actions to CentovaCast server."
 msgstr ""
@@ -221,7 +220,7 @@ msgid "Create new mass mail message"
 msgstr ""
 
 msgid "Settings"
-msgstr ""
+msgstr "设置"
 
 msgid "Subject"
 msgstr ""
@@ -281,7 +280,7 @@ msgid "No"
 msgstr ""
 
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 msgid "Done editing"
 msgstr ""
@@ -290,19 +289,19 @@ msgid "Hi,"
 msgstr ""
 
 msgid "Loading ..."
-msgstr ""
+msgstr "载入中..."
 
 msgid "New"
-msgstr ""
+msgstr "新建"
 
 msgid "Visit site"
-msgstr ""
+msgstr "访问网站"
 
 msgid "Help"
-msgstr ""
+msgstr "帮助"
 
 msgid "Logout"
-msgstr ""
+msgstr "注销"
 
 msgid "Notifications"
 msgstr "提醒"
@@ -311,10 +310,10 @@ msgid "Orders"
 msgstr "订单"
 
 msgid "Invoices"
-msgstr "发票"
+msgstr "账单"
 
 msgid "Inquiries"
-msgstr "询问"
+msgstr "售前咨询"
 
 msgid "Tickets"
 msgstr "支持单"
@@ -347,31 +346,31 @@ msgid "Client Profile updated"
 msgstr ""
 
 msgid "Active"
-msgstr ""
+msgstr "活跃"
 
 msgid "Suspended"
-msgstr ""
+msgstr "暂停"
 
 msgid "Canceled"
-msgstr ""
+msgstr "取消"
 
 msgid "Individual"
-msgstr ""
+msgstr "个人"
 
 msgid "Company"
-msgstr ""
+msgstr "公司"
 
 msgid "Other/Unknown"
-msgstr ""
+msgstr "其他/未知"
 
 msgid "Group"
-msgstr ""
+msgstr "分组"
 
 msgid "Name"
-msgstr ""
+msgstr "名称"
 
 msgid "Company details"
-msgstr ""
+msgstr "公司详情"
 
 msgid "Address and contact details"
 msgstr ""
@@ -446,13 +445,13 @@ msgid "Client payments history"
 msgstr ""
 
 msgid "Amount"
-msgstr ""
+msgstr "数量"
 
 msgid "Description"
-msgstr ""
+msgstr "描述"
 
 msgid "Date"
-msgstr ""
+msgstr "日期"
 
 msgid "Balance"
 msgstr ""
@@ -506,7 +505,7 @@ msgid "System settings"
 msgstr ""
 
 msgid "Invoice"
-msgstr ""
+msgstr "账单"
 
 msgid "Order"
 msgstr ""
@@ -769,7 +768,7 @@ msgid "Registration/Renewal years"
 msgstr ""
 
 msgid "Registration date"
-msgstr ""
+msgstr "注册时间"
 
 msgid "Unlock"
 msgstr ""
@@ -929,13 +928,13 @@ msgid "Invoice Id"
 msgstr ""
 
 msgid "Payment Gateway"
-msgstr ""
+msgstr "支付接口"
 
 msgid "Received at"
 msgstr ""
 
 msgid "Filter"
-msgstr ""
+msgstr "过滤"
 
 msgid "Processed"
 msgstr ""
@@ -947,7 +946,7 @@ msgid "Error"
 msgstr ""
 
 msgid "Gateway"
-msgstr ""
+msgstr "接口"
 
 msgid "Filter invoices"
 msgstr ""
@@ -968,28 +967,28 @@ msgid "Refunded"
 msgstr ""
 
 msgid "Issue date"
-msgstr ""
+msgstr "发出日期"
 
 msgid "Unpaid invoices"
-msgstr ""
+msgstr "未付账单"
 
 msgid "Refunded invoices"
-msgstr ""
+msgstr "退还账单"
 
 msgid "Paid invoices"
-msgstr ""
+msgstr "已付账单"
 
 msgid "New Invoice"
-msgstr ""
+msgstr "新账单"
 
 msgid "Issued at"
-msgstr ""
+msgstr "发出日期"
 
 msgid "Paid at"
-msgstr ""
+msgstr "支付日期"
 
 msgid "Client"
-msgstr ""
+msgstr "客户"
 
 msgid "Start typing clients name, email or ID"
 msgstr ""
@@ -1024,16 +1023,16 @@ msgid "Go back"
 msgstr ""
 
 msgid "Tickets waiting for staff reply"
-msgstr ""
+msgstr "等待工作人员支持单"
 
 msgid "Tickets waiting for client reply"
-msgstr ""
+msgstr "等待客户支持单"
 
 msgid "Solved tickets"
-msgstr ""
+msgstr "已解决支持单"
 
 msgid "Public tickets"
-msgstr ""
+msgstr "公开的支持单"
 
 msgid "Import SolusVM servers"
 msgstr ""
@@ -1248,7 +1247,7 @@ msgid ""
 msgstr ""
 
 msgid "INFORMATION"
-msgstr ""
+msgstr "信息"
 
 msgid "Master server IP"
 msgstr ""
@@ -1370,13 +1369,13 @@ msgid "Manage groups"
 msgstr ""
 
 msgid "New group"
-msgstr ""
+msgstr "新分组"
 
 msgid "Inactive"
-msgstr ""
+msgstr "非激活"
 
 msgid "Create group"
-msgstr ""
+msgstr "创建分组"
 
 msgid "License details"
 msgstr ""
@@ -1664,7 +1663,7 @@ msgid "Period when code is valid"
 msgstr ""
 
 msgid "Products"
-msgstr "产品们"
+msgstr "产品"
 
 msgid "Periods (Select none to apply to all periods)"
 msgstr ""
@@ -1758,34 +1757,34 @@ msgid "Hosting plans"
 msgstr ""
 
 msgid "Servers"
-msgstr ""
+msgstr "服务器"
 
 msgid "Statistics"
-msgstr ""
+msgstr "统计信息"
 
 msgid "Website statistic"
-msgstr ""
+msgstr "网站统计"
 
 msgid "Metric"
-msgstr ""
+msgstr "计量方面"
 
 msgid "This Month"
-msgstr ""
+msgstr "本月"
 
 msgid "Today"
-msgstr ""
+msgstr "今天"
 
 msgid "Income"
-msgstr ""
+msgstr "收入"
 
 msgid "Define date interval for graphs "
-msgstr ""
+msgstr "定义图表更新日期间隔"
 
 msgid "Update graphs"
-msgstr ""
+msgstr "更新图表"
 
 msgid "Support tickets"
-msgstr ""
+msgstr "支持单"
 
 msgid "Orders by status"
 msgstr ""
@@ -1958,10 +1957,10 @@ msgid "Clients logins history"
 msgstr ""
 
 msgid "Search:"
-msgstr ""
+msgstr "搜索："
 
 msgid "Enter search text.."
-msgstr ""
+msgstr "输入搜索文字.."
 
 msgid "Membership details"
 msgstr ""
@@ -2350,16 +2349,16 @@ msgid "Sent emails"
 msgstr ""
 
 msgid "Subscriptions"
-msgstr ""
+msgstr "订阅"
 
 msgid "New subscription"
-msgstr ""
+msgstr "新订阅"
 
 msgid "Subscription ID on payment gateway"
 msgstr ""
 
 msgid "Period"
-msgstr ""
+msgstr "周期"
 
 msgid "Import existing"
 msgstr ""
@@ -2380,16 +2379,16 @@ msgid "No icons available"
 msgstr ""
 
 msgid "Filter clients"
-msgstr ""
+msgstr "过滤客户"
 
 msgid "All"
-msgstr ""
+msgstr "所有"
 
 msgid "New client"
-msgstr ""
+msgstr "新客户"
 
 msgid "Groups"
-msgstr ""
+msgstr "分组"
 
 msgid "Ticket"
 msgstr ""
@@ -2509,7 +2508,7 @@ msgid ""
 msgstr ""
 
 msgid "Company name"
-msgstr ""
+msgstr "公司名称"
 
 msgid "Gender"
 msgstr ""
@@ -2533,28 +2532,28 @@ msgid "My Products & Services"
 msgstr ""
 
 msgid "Filter orders"
-msgstr ""
+msgstr "过滤订单"
 
 msgid "Product"
-msgstr ""
+msgstr "产品"
 
 msgid "Invoice option"
-msgstr ""
+msgstr "账单选项"
 
 msgid "Creation date"
-msgstr ""
+msgstr "创建日期"
 
 msgid "Pending setup"
-msgstr ""
+msgstr "等候安装"
 
 msgid "Supended"
-msgstr ""
+msgstr "暂停"
 
 msgid "New order"
-msgstr ""
+msgstr "新订单"
 
 msgid "Continue"
-msgstr ""
+msgstr "继续"
 
 msgid "Domain action"
 msgstr ""
@@ -2781,10 +2780,10 @@ msgid "Announcement"
 msgstr ""
 
 msgid "Knowledge base article"
-msgstr ""
+msgstr "知识库文章"
 
 msgid "Forum topic"
-msgstr ""
+msgstr "论坛主题"
 
 msgid "Tax rules"
 msgstr ""
@@ -2851,10 +2850,10 @@ msgid "Leave empty to apply to all states"
 msgstr ""
 
 msgid "Yesterday"
-msgstr ""
+msgstr "昨天"
 
 msgid "This month so far"
-msgstr ""
+msgstr "本月至今"
 
 msgid "Latest orders"
 msgstr ""
@@ -2869,13 +2868,13 @@ msgid "No active orders available"
 msgstr ""
 
 msgid "Define date interval for graphs"
-msgstr ""
+msgstr "定义图表更新日期间隔"
 
 msgid "Recent clients activity"
-msgstr ""
+msgstr "近期的客户活动"
 
 msgid "Recent staff activity"
-msgstr ""
+msgstr "近期的工作人员活动"
 
 msgid "Create new order"
 msgstr ""
@@ -2896,10 +2895,10 @@ msgid "Edit order"
 msgstr ""
 
 msgid "History"
-msgstr ""
+msgstr "历史"
 
 msgid "Support"
-msgstr ""
+msgstr "支持"
 
 msgid "Payment amount"
 msgstr ""
@@ -3188,10 +3187,10 @@ msgid "Remember me"
 msgstr ""
 
 msgid "Log me in"
-msgstr ""
+msgstr "登录"
 
 msgid "Extensions"
-msgstr ""
+msgstr "扩展"
 
 msgid "Update BoxBilling"
 msgstr ""
@@ -3243,4 +3242,4 @@ msgid "File manager"
 msgstr ""
 
 msgid "Full screen"
-msgstr ""
+msgstr "全屏"
