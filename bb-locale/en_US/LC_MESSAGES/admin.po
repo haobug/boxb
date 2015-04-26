@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: BoxBilling\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2015-04-21 01:03+0800\n"
+"PO-Revision-Date: 2015-04-26 17:31+0800\n"
 "Last-Translator: qinghao <qingxianhao@gmail.com>\n"
 "Language-Team: BoxBilling <info@boxbilling.com>\n"
 "Language: English\n"
@@ -112,7 +112,7 @@ msgid "Price"
 msgstr "价格"
 
 msgid "Total"
-msgstr "总计"
+msgstr "合计"
 
 msgid "One time"
 msgstr "一次性"
@@ -124,7 +124,7 @@ msgid "First payment sum"
 msgstr ""
 
 msgid "On"
-msgstr "开"
+msgstr "在"
 
 msgid "Weekly"
 msgstr "每周"
@@ -154,28 +154,28 @@ msgid "Changing settings does not send actions to CentovaCast server."
 msgstr ""
 
 msgid "Server"
-msgstr ""
+msgstr "服务器"
 
 msgid "Username"
-msgstr ""
+msgstr "用户名"
 
 msgid "Password"
-msgstr ""
+msgstr "密码"
 
 msgid "Reconfigure"
-msgstr ""
+msgstr "重新配置"
 
 msgid "Changing CentovaCast server settings."
 msgstr ""
 
 msgid "Hostname"
-msgstr ""
+msgstr "主机名"
 
 msgid "IP Address"
-msgstr ""
+msgstr "IP地址"
 
 msgid "Port"
-msgstr ""
+msgstr "端口"
 
 msgid "Max clients"
 msgstr ""
@@ -205,13 +205,13 @@ msgid "Auto rebuild list"
 msgstr ""
 
 msgid "Account details"
-msgstr ""
+msgstr "帐户详细信息"
 
 msgid "Parameter"
-msgstr ""
+msgstr "参数"
 
 msgid "Value"
-msgstr ""
+msgstr "值"
 
 msgid "Mass Mail Messages"
 msgstr ""
@@ -223,19 +223,19 @@ msgid "Settings"
 msgstr "设置"
 
 msgid "Subject"
-msgstr ""
+msgstr "主题"
 
 msgid "From"
 msgstr ""
 
 msgid "Create"
-msgstr ""
+msgstr "创建"
 
 msgid "Mass Mail Settings"
-msgstr ""
+msgstr "邮件群发设置"
 
 msgid "Configuration updated"
-msgstr ""
+msgstr "配置已更新"
 
 msgid "Client ID to send test email while creating message"
 msgstr ""
@@ -328,22 +328,22 @@ msgid "Profile"
 msgstr "个人信息"
 
 msgid "Payments"
-msgstr ""
+msgstr "支付方式"
 
 msgid "Logins"
-msgstr ""
+msgstr "登录"
 
 msgid "Emails"
-msgstr ""
+msgstr "电子邮件"
 
 msgid "Profile details"
-msgstr ""
+msgstr "查看资料"
 
 msgid "Client profile details"
-msgstr ""
+msgstr "客户详细资料"
 
 msgid "Client Profile updated"
-msgstr ""
+msgstr "客户资料已更新"
 
 msgid "Active"
 msgstr "活跃"
@@ -370,43 +370,43 @@ msgid "Name"
 msgstr "名称"
 
 msgid "Company details"
-msgstr "公司详情"
+msgstr "公司信息"
 
 msgid "Address and contact details"
-msgstr ""
+msgstr "地址和联系方式"
 
 msgid "Address Line 1"
-msgstr ""
+msgstr "地址第 1 行"
 
 msgid "Address Line 2"
-msgstr ""
+msgstr "地址第 2 行"
 
 msgid "Country"
-msgstr ""
+msgstr "国家"
 
 msgid "State"
-msgstr ""
+msgstr "州"
 
 msgid "City"
-msgstr ""
+msgstr "城市"
 
 msgid "Postcode"
-msgstr ""
+msgstr "邮编"
 
 msgid "Phone"
-msgstr ""
+msgstr "电话"
 
 msgid "Additional settings"
-msgstr ""
+msgstr "其他设置"
 
 msgid "Alternative ID"
-msgstr ""
+msgstr "替代 ID"
 
 msgid "Used to identify client on foreign system. Usually used by importers"
 msgstr ""
 
 msgid "Currency"
-msgstr ""
+msgstr "币种"
 
 msgid "Exempt from tax"
 msgstr ""
@@ -454,7 +454,7 @@ msgid "Date"
 msgstr "日期"
 
 msgid "Balance"
-msgstr ""
+msgstr "结余"
 
 msgid "Add funds for client"
 msgstr ""
@@ -502,7 +502,7 @@ msgid "Domains management"
 msgstr ""
 
 msgid "System settings"
-msgstr ""
+msgstr "系统设置"
 
 msgid "Invoice"
 msgstr "账单"
@@ -514,13 +514,13 @@ msgid "FTP layer"
 msgstr ""
 
 msgid "Scheduled tasks"
-msgstr ""
+msgstr "计划任务"
 
 msgid "License"
 msgstr ""
 
 msgid "Address"
-msgstr ""
+msgstr "地址"
 
 msgid "Logo URL"
 msgstr ""
@@ -532,13 +532,13 @@ msgid "VAT number"
 msgstr ""
 
 msgid "Bank Account number"
-msgstr ""
+msgstr "银行帐号"
 
 msgid "Signature"
-msgstr ""
+msgstr "签名"
 
 msgid "Update settings"
-msgstr ""
+msgstr "更新设置"
 
 msgid "Company terms of service, legal regulation"
 msgstr ""
@@ -847,7 +847,7 @@ msgid "Enable or disable this email template."
 msgstr ""
 
 msgid "Enabled"
-msgstr ""
+msgstr "启用"
 
 msgid "List of variables used in this email"
 msgstr ""
@@ -916,55 +916,55 @@ msgid "ID"
 msgstr ""
 
 msgid "Transactions"
-msgstr ""
+msgstr "交易"
 
 msgid "Filter transactions"
-msgstr ""
+msgstr "筛选交易"
 
 msgid "ID on payment gateway"
-msgstr ""
+msgstr "支付接口的 ID"
 
 msgid "Invoice Id"
-msgstr ""
+msgstr "帐单 ID"
 
 msgid "Payment Gateway"
 msgstr "支付接口"
 
 msgid "Received at"
-msgstr ""
+msgstr "接收时间"
 
 msgid "Filter"
-msgstr "过滤"
+msgstr "筛选"
 
 msgid "Processed"
-msgstr ""
+msgstr "已处理"
 
 msgid "Approved"
-msgstr ""
+msgstr "已批准"
 
 msgid "Error"
-msgstr ""
+msgstr "Error"
 
 msgid "Gateway"
 msgstr "接口"
 
 msgid "Filter invoices"
-msgstr ""
+msgstr "筛选账单"
 
 msgid "Nr"
 msgstr ""
 
 msgid "All statuses"
-msgstr ""
+msgstr "所有状态"
 
 msgid "Paid"
-msgstr ""
+msgstr "已支付"
 
 msgid "Unpaid"
-msgstr ""
+msgstr "未支付"
 
 msgid "Refunded"
-msgstr ""
+msgstr "退款"
 
 msgid "Issue date"
 msgstr "发出日期"
@@ -973,7 +973,7 @@ msgid "Unpaid invoices"
 msgstr "未付账单"
 
 msgid "Refunded invoices"
-msgstr "退还账单"
+msgstr "退款账单"
 
 msgid "Paid invoices"
 msgstr "已付账单"
@@ -994,18 +994,18 @@ msgid "Start typing clients name, email or ID"
 msgstr ""
 
 msgid "Prepare"
-msgstr ""
+msgstr "准备"
 
 msgid "Payment gateway configuration"
-msgstr ""
+msgstr "支付接口配置"
 
 msgid "Payment gateway title"
-msgstr ""
+msgstr "支付接口标题"
 
 msgid ""
 "Select which currencies can accept this payment gateway (Select none to "
 "allow all currencies)"
-msgstr ""
+msgstr "选择哪种货币可以接受这种支付接口（不选择允许所有的货币）"
 
 msgid "Allow one time payments"
 msgstr ""
@@ -1020,7 +1020,7 @@ msgid "IPN Callback URL"
 msgstr ""
 
 msgid "Go back"
-msgstr ""
+msgstr "返回"
 
 msgid "Tickets waiting for staff reply"
 msgstr "等待工作人员支持单"
@@ -1053,7 +1053,7 @@ msgid "Ticket ID"
 msgstr ""
 
 msgid "Author"
-msgstr ""
+msgstr "作者"
 
 msgid "Time opened"
 msgstr ""
@@ -1068,7 +1068,7 @@ msgid "Virtualization type"
 msgstr ""
 
 msgid "Node"
-msgstr ""
+msgstr "节点"
 
 msgid ""
 "Make sure BoxBilling can connect to SolusVM master server and check if nodes "
@@ -1088,19 +1088,19 @@ msgid "Plan parameters"
 msgstr ""
 
 msgid "IPs amount"
-msgstr ""
+msgstr "IP 数量"
 
 msgid "Guaranteed RAM"
 msgstr ""
 
 msgid "Hdd Space"
-msgstr ""
+msgstr "硬盘空间"
 
 msgid "Bandwidth"
-msgstr ""
+msgstr "带宽"
 
 msgid "CPU cores"
-msgstr ""
+msgstr "CPU 核心数"
 
 msgid "Custom extraip"
 msgstr ""
@@ -1118,7 +1118,7 @@ msgid "Dedicated RAM"
 msgstr ""
 
 msgid "Disk space"
-msgstr ""
+msgstr "磁盘空间"
 
 msgid "Network transfer"
 msgstr ""
@@ -1130,13 +1130,13 @@ msgid "BoxBilling version settings"
 msgstr ""
 
 msgid "Version"
-msgstr ""
+msgstr "版本"
 
 msgid "Size"
-msgstr ""
+msgstr "大小"
 
 msgid "Release date"
-msgstr ""
+msgstr "发布日期"
 
 msgid "Back to extensions"
 msgstr ""
@@ -1148,22 +1148,22 @@ msgid "Download latest update"
 msgstr ""
 
 msgid "Staff members logins history"
-msgstr ""
+msgstr "工作人员登录历史"
 
 msgid "Admin"
-msgstr ""
+msgstr "管理"
 
 msgid "Currency management"
-msgstr ""
+msgstr "币种管理"
 
 msgid "Currencies"
-msgstr ""
+msgstr "货币"
 
 msgid "Add new currency"
-msgstr ""
+msgstr "添加新币种"
 
 msgid "Manage currencies"
-msgstr ""
+msgstr "管理货币"
 
 msgid ""
 "Default currency is the one you manage all your prices in admin area. If "
@@ -1175,18 +1175,23 @@ msgid ""
 "default currency. Changing default currency after you have paid invoices "
 "will distort income statistics. Currency rates are taken from Google."
 msgstr ""
+"默认货币是您管理管理方面的全部价格之一。如果客户区客户选择比默认货币等，价格"
+"将根据转化率重新计算。你只能有一个默认货币。你不能再次增加相同的货币。更改默"
+"认货币时，不建议活动订单都可用。没有什么是重新计算的默认货币的变化。你的收入"
+"是计算默认货币。更改默认货币您已支付发票后，会扭曲收入统计。货币汇率均取自谷"
+"歌。"
 
 msgid "ISO code"
-msgstr ""
+msgstr "ISO 币种代码"
 
 msgid "Conversion rate"
-msgstr ""
+msgstr "汇率"
 
 msgid "Example price"
-msgstr ""
+msgstr "示例价格"
 
 msgid "Update Rates"
-msgstr ""
+msgstr "更新汇率"
 
 msgid "Code"
 msgstr ""
@@ -1195,28 +1200,28 @@ msgid "Format"
 msgstr ""
 
 msgid "Add"
-msgstr ""
+msgstr "添加"
 
 msgid "Articles"
-msgstr ""
+msgstr "文章"
 
 msgid "New article"
-msgstr ""
+msgstr "新建文章"
 
 msgid "New category"
-msgstr ""
+msgstr "新建分类"
 
 msgid "Manage categories"
-msgstr ""
+msgstr "管理分类"
 
 msgid "Category created"
-msgstr ""
+msgstr "分类已创建"
 
 msgid "Getting started with SolusVM"
 msgstr ""
 
 msgid "API configuration"
-msgstr ""
+msgstr "API 配置"
 
 msgid ""
 "This guide will help you to get started selling SolusVM virtual servers with "
@@ -1250,13 +1255,13 @@ msgid "INFORMATION"
 msgstr "信息"
 
 msgid "Master server IP"
-msgstr ""
+msgstr "主服务器IP"
 
 msgid "Secure connection"
-msgstr ""
+msgstr "安全连接"
 
 msgid "Custom port"
-msgstr ""
+msgstr "自定义端口"
 
 msgid "Leave blank to use default port 5353 and 5656 for secure connection"
 msgstr ""
@@ -1316,13 +1321,13 @@ msgid "File information"
 msgstr ""
 
 msgid "Filename"
-msgstr ""
+msgstr "文件名"
 
 msgid "Location"
-msgstr ""
+msgstr "位置"
 
 msgid "Downloads"
-msgstr ""
+msgstr "下载"
 
 msgid "Upload new file for this order"
 msgstr ""
@@ -1336,37 +1341,37 @@ msgid "Upload new file"
 msgstr ""
 
 msgid "Upload"
-msgstr ""
+msgstr "上传"
 
 msgid "Enable/Disable"
-msgstr ""
+msgstr "启用/禁用"
 
 msgid "Server manager"
-msgstr ""
+msgstr "服务器管理器"
 
 msgid "Access Hash (Instead of password for cPanel servers)"
-msgstr ""
+msgstr "访问哈希（不是 cPanel 服务器的密码）"
 
 msgid "Connection port"
-msgstr ""
+msgstr "连接端口"
 
 msgid "Use Secure connection"
-msgstr ""
+msgstr "使用安全连接"
 
 msgid "Update and test connection"
-msgstr ""
+msgstr "更新并测试连接"
 
 msgid "Update server"
-msgstr ""
+msgstr "更新服务器"
 
 msgid "Staff members"
-msgstr ""
+msgstr "工作人员"
 
 msgid "New staff member"
-msgstr ""
+msgstr "新建工作人员"
 
 msgid "Manage groups"
-msgstr ""
+msgstr "管理用户组"
 
 msgid "New group"
 msgstr "新分组"
@@ -1378,10 +1383,10 @@ msgid "Create group"
 msgstr "创建分组"
 
 msgid "License details"
-msgstr ""
+msgstr "License 详细信息"
 
 msgid "Plugin"
-msgstr ""
+msgstr "插件"
 
 msgid "Last ping"
 msgstr ""
@@ -1544,21 +1549,21 @@ msgid "Article details"
 msgstr ""
 
 msgid "Payment gateways"
-msgstr ""
+msgstr "支付接口"
 
 msgid "New payment gateway"
-msgstr ""
+msgstr "新建支付接口"
 
 msgid "Allow subscriptions"
 msgstr ""
 
 msgid "Adding new payment gateway"
-msgstr ""
+msgstr "添加支付接口"
 
 msgid ""
 "Although BoxBilling ships with most popular payment gateways, you can "
 "install other gateways."
-msgstr ""
+msgstr "本系统已经附带了流行的支付接口，您还可以安装其他的支付接口。"
 
 msgid "Follow these instructions to install new payment gateway."
 msgstr ""
@@ -1591,25 +1596,25 @@ msgid ""
 msgstr ""
 
 msgid "Install"
-msgstr ""
+msgstr "安装"
 
 msgid "All payment gateways installed"
-msgstr ""
+msgstr "已安装所有支付接口"
 
 msgid "New Addon"
-msgstr ""
+msgstr "新建插件"
 
 msgid "Disabled"
-msgstr ""
+msgstr "禁用"
 
 msgid "After order is placed"
-msgstr ""
+msgstr "订单拍下以后"
 
 msgid "After payment is received"
-msgstr ""
+msgstr "订单支付以后"
 
 msgid "Manual activation"
-msgstr ""
+msgstr "手动激活"
 
 msgid "Tld management"
 msgstr ""
@@ -1793,16 +1798,16 @@ msgid "Income vs Refund"
 msgstr ""
 
 msgid "Hosting plans and servers"
-msgstr ""
+msgstr "主机方案和服务器"
 
 msgid "New server"
-msgstr ""
+msgstr "新增服务器"
 
 msgid "New hosting plan"
-msgstr ""
+msgstr "新建主机方案"
 
 msgid "New server manager"
-msgstr ""
+msgstr "新增服务器管理器"
 
 msgid "Addon domains"
 msgstr ""
@@ -1951,10 +1956,10 @@ msgid "Products (Select none to apply to all products)"
 msgstr ""
 
 msgid "Forum details"
-msgstr ""
+msgstr "论坛详细资料"
 
 msgid "Clients logins history"
-msgstr ""
+msgstr "客户登录历史"
 
 msgid "Search:"
 msgstr "搜索："
@@ -1972,7 +1977,7 @@ msgid "Operating System"
 msgstr ""
 
 msgid "IP address"
-msgstr ""
+msgstr "IP 地址"
 
 msgid "Additional IP addresses"
 msgstr ""
@@ -1987,10 +1992,10 @@ msgid "Console user / password"
 msgstr ""
 
 msgid "Client area"
-msgstr ""
+msgstr "客户区"
 
 msgid "Admin area"
-msgstr ""
+msgstr "管理区"
 
 msgid "Change root password"
 msgstr ""
@@ -2014,28 +2019,28 @@ msgid "New plan"
 msgstr ""
 
 msgid "Rebuild"
-msgstr ""
+msgstr "重建"
 
 msgid "New template"
-msgstr ""
+msgstr "新模板"
 
 msgid "Usage statistics"
-msgstr ""
+msgstr "使用情况统计"
 
 msgid "Free"
-msgstr ""
+msgstr "免费"
 
 msgid "Memory"
-msgstr ""
+msgstr "内存"
 
 msgid "Disk usage"
 msgstr ""
 
 msgid "Traffic"
-msgstr ""
+msgstr "流量"
 
 msgid "Load"
-msgstr ""
+msgstr "加载"
 
 msgid ""
 "Master node is offline, order is not yet activated or API is not configured "
@@ -2182,10 +2187,10 @@ msgid "Create CentovaCast product"
 msgstr ""
 
 msgid "Email templates"
-msgstr ""
+msgstr "电子邮件模板"
 
 msgid "Email settings"
-msgstr ""
+msgstr "电子邮件设置"
 
 msgid ""
 "The list is empty. Depending on modules enabled email templates will be "
@@ -2243,16 +2248,16 @@ msgid "Number"
 msgstr ""
 
 msgid "Due at"
-msgstr ""
+msgstr "到期时间"
 
 msgid "Reminded at"
-msgstr ""
+msgstr "提醒时间"
 
 msgid "Serie and number"
 msgstr ""
 
 msgid "Tax"
-msgstr ""
+msgstr "税"
 
 msgid "Text before invoice items table"
 msgstr ""
@@ -2264,37 +2269,37 @@ msgid "Company VAT"
 msgstr ""
 
 msgid "Company Number"
-msgstr ""
+msgstr "公司编号"
 
 msgid "First name"
-msgstr ""
+msgstr "名字"
 
 msgid "Last name"
-msgstr ""
+msgstr "姓"
 
 msgid "Invoice items"
 msgstr ""
 
 msgid "Transaction Date"
-msgstr ""
+msgstr "交易日期"
 
 msgid "Transaction ID"
-msgstr ""
+msgstr "交易 ID"
 
 msgid "Print"
-msgstr ""
+msgstr "打印"
 
 msgid "Delete"
-msgstr ""
+msgstr "删除"
 
 msgid "Client area themes"
-msgstr ""
+msgstr "客户区主题"
 
 msgid "Admin area themes"
-msgstr ""
+msgstr "管理区域主题"
 
 msgid "New theme"
-msgstr ""
+msgstr "新主题"
 
 msgid "Adding new client area theme"
 msgstr ""
@@ -2331,22 +2336,22 @@ msgid ""
 msgstr ""
 
 msgid "Quantity"
-msgstr ""
+msgstr "数量"
 
 msgid "Canned response"
 msgstr ""
 
 msgid "New product"
-msgstr ""
+msgstr "新产品"
 
 msgid "Priority"
-msgstr ""
+msgstr "优先级"
 
 msgid "Update priority"
-msgstr ""
+msgstr "更新优先级"
 
 msgid "Sent emails"
-msgstr ""
+msgstr "发送电子邮件"
 
 msgid "Subscriptions"
 msgstr "订阅"
@@ -2379,7 +2384,7 @@ msgid "No icons available"
 msgstr ""
 
 msgid "Filter clients"
-msgstr "过滤客户"
+msgstr "筛选客户"
 
 msgid "All"
 msgstr "所有"
@@ -2421,7 +2426,7 @@ msgid "Something went wrong here"
 msgstr ""
 
 msgid "Login"
-msgstr ""
+msgstr "登录"
 
 msgid "Back to Dashboard"
 msgstr ""
@@ -2492,7 +2497,7 @@ msgid "No POST parameters received"
 msgstr ""
 
 msgid "SERVER"
-msgstr ""
+msgstr "服务器"
 
 msgid "No SERVER parameters logged"
 msgstr ""
@@ -2511,28 +2516,28 @@ msgid "Company name"
 msgstr "公司名称"
 
 msgid "Gender"
-msgstr ""
+msgstr "性别"
 
 msgid "Birthday"
-msgstr ""
+msgstr "生日"
 
 msgid "Address details"
-msgstr ""
+msgstr "详细地址"
 
 msgid "Address line 1"
-msgstr ""
+msgstr "地址第 1 行"
 
 msgid "Address line 2"
-msgstr ""
+msgstr "地址第 2 行"
 
 msgid "Postcode/Zip"
-msgstr ""
+msgstr "邮编/邮编"
 
 msgid "My Products & Services"
-msgstr ""
+msgstr "我的产品和服务"
 
 msgid "Filter orders"
-msgstr "过滤订单"
+msgstr "筛选订单"
 
 msgid "Product"
 msgstr "产品"
@@ -2756,7 +2761,7 @@ msgid "to learn how to create your own domain registrar."
 msgstr ""
 
 msgid "SEO settings"
-msgstr ""
+msgstr "SEO 设置"
 
 msgid "Ping sitemap to Google"
 msgstr ""
@@ -2768,16 +2773,16 @@ msgid "Ping sitemap to Bing"
 msgstr ""
 
 msgid "management"
-msgstr ""
+msgstr "管理"
 
 msgid "Support ticket"
-msgstr ""
+msgstr "支持单"
 
 msgid "Staff member"
-msgstr ""
+msgstr "工作人员"
 
 msgid "Announcement"
-msgstr ""
+msgstr "公告"
 
 msgid "Knowledge base article"
 msgstr "知识库文章"
@@ -2856,13 +2861,13 @@ msgid "This month so far"
 msgstr "本月至今"
 
 msgid "Latest orders"
-msgstr ""
+msgstr "最新订单"
 
 msgid "Product sales"
 msgstr ""
 
 msgid "Product/Service"
-msgstr ""
+msgstr "产品/服务"
 
 msgid "No active orders available"
 msgstr ""
@@ -2877,22 +2882,22 @@ msgid "Recent staff activity"
 msgstr "近期的工作人员活动"
 
 msgid "Create new order"
-msgstr ""
+msgstr "建立新订单"
 
 msgid "for"
 msgstr ""
 
 msgid "Activate order"
-msgstr ""
+msgstr "激活订单"
 
 msgid "Place new order"
-msgstr ""
+msgstr "生成新的订单"
 
 msgid "Order management"
-msgstr ""
+msgstr "订单管理"
 
 msgid "Edit order"
-msgstr ""
+msgstr "编辑订单"
 
 msgid "History"
 msgstr "历史"
@@ -3020,16 +3025,16 @@ msgid ""
 msgstr ""
 
 msgid "Server Name"
-msgstr ""
+msgstr "服务器名称"
 
 msgid "Account IP"
-msgstr ""
+msgstr "帐户 IP"
 
 msgid "per month"
-msgstr ""
+msgstr "每月"
 
 msgid "Jump to cPanel"
-msgstr ""
+msgstr "跳转到 cPanel 管理后台"
 
 msgid "Reseller control panel"
 msgstr ""
@@ -3041,25 +3046,25 @@ msgid "Hosting plan changed"
 msgstr ""
 
 msgid "Change account password"
-msgstr ""
+msgstr "更改帐户密码"
 
 msgid "Account password changed"
-msgstr ""
+msgstr "帐户密码已更改"
 
 msgid "Password Confirm"
-msgstr ""
+msgstr "密码确认"
 
 msgid "Change IP"
-msgstr ""
+msgstr "更改IP"
 
 msgid "Account IP changed"
-msgstr ""
+msgstr "帐户 IP 已更改"
 
 msgid "Change username"
-msgstr ""
+msgstr "更改用户名"
 
 msgid "Account username changed"
-msgstr ""
+msgstr "更改帐户的用户名"
 
 msgid "Change domain"
 msgstr ""
@@ -3089,7 +3094,7 @@ msgid "Check if your language translation file is available at"
 msgstr ""
 
 msgid "Download language files and place them to"
-msgstr ""
+msgstr "下载语言文件，并将其放置到"
 
 msgid ""
 "Language will be automatically available and can be changed in client area"
@@ -3107,24 +3112,24 @@ msgid "Translations can be made with"
 msgstr ""
 
 msgid "software"
-msgstr ""
+msgstr "软件"
 
 msgid "Changing default language"
-msgstr ""
+msgstr "更改默认语言"
 
 msgid "Default language can be set in"
 msgstr ""
 
 msgid "Removing language"
-msgstr ""
+msgstr "删除语言"
 
 msgid ""
 "Removing languages from BoxBilling is really simple. Just delete language "
 "folder you wish from"
-msgstr ""
+msgstr "BoxBilling 删除语言很简单，直接在文件夹中删除你希望删除的语言"
 
 msgid "Partners list"
-msgstr ""
+msgstr "合作伙伴名单"
 
 msgid "Logo"
 msgstr ""
@@ -3133,7 +3138,7 @@ msgid "Sales"
 msgstr ""
 
 msgid "Signup Date"
-msgstr ""
+msgstr "注册日期"
 
 msgid "Global partners limits and settings"
 msgstr ""
@@ -3169,22 +3174,22 @@ msgid "Post created"
 msgstr ""
 
 msgid "Last update"
-msgstr ""
+msgstr "最后更新"
 
 msgid "Create main administrator account"
-msgstr ""
+msgstr "创建主管理员帐户"
 
 msgid "Enter your email address"
-msgstr ""
+msgstr "输入您的电子邮件地址"
 
 msgid "Enter your password"
-msgstr ""
+msgstr "输入您的密码"
 
 msgid "Create administrator account"
-msgstr ""
+msgstr "创建管理员账户"
 
 msgid "Remember me"
-msgstr ""
+msgstr "记住密码"
 
 msgid "Log me in"
 msgstr "登录"
@@ -3193,7 +3198,7 @@ msgid "Extensions"
 msgstr "扩展"
 
 msgid "Update BoxBilling"
-msgstr ""
+msgstr "更新B oxBilling"
 
 msgid "Learn more about extensions"
 msgstr ""
@@ -3214,7 +3219,7 @@ msgid "Hook"
 msgstr ""
 
 msgid "Automatic update"
-msgstr ""
+msgstr "自动更新"
 
 msgid ""
 "Automatic updater is a tool to update BoxBilling to latest version in one "
@@ -3223,15 +3228,15 @@ msgid ""
 msgstr ""
 
 msgid "Manual update"
-msgstr ""
+msgstr "手动更新"
 
 msgid ""
 "Manual update is a solution when auto updater can not work on current "
 "installation environment"
-msgstr ""
+msgstr "手动更新只在自动更新起作用时使用"
 
 msgid "Extending BoxBilling"
-msgstr ""
+msgstr "扩展 BoxBilling 的功能"
 
 msgid ""
 "BoxBilling gives developers all the capabilities to customize, integrate & "
@@ -3239,7 +3244,7 @@ msgid ""
 msgstr ""
 
 msgid "File manager"
-msgstr ""
+msgstr "文件管理器"
 
 msgid "Full screen"
 msgstr "全屏"
